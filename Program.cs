@@ -15,6 +15,8 @@ namespace B13
 
             SanPham sp3 = new ThucPham("SP03", "Ao khoac", 179000, 40000);
             sp3.HienThiThongTin(); */
+
+            // Update code online leanring GitHub
             
             Console.InputEncoding = Encoding.UTF8;
             Console.OutputEncoding = Encoding.UTF8;
